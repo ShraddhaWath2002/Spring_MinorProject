@@ -3,7 +3,7 @@ Developed an Interest amount calculation application to manage calculate interes
 
 -	**Responsibilities:**
 
-o	Developed using layered application approch.  
+o	Developed StandAlone application using layered application approch.  
   
 o	Developed backend logic using Java and Spring Framework.
 
