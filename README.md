@@ -1,4 +1,4 @@
-#Interest amount calculating App:
+# Interest amount calculating App:
 Developed an Interest amount calculation application to manage calculate interest amount based on user's desired principle amount, rate of interest and time period.
 
 -	**Responsibilities:**
